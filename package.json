@@ -13,6 +13,28 @@
   "keywords": [
     "\"\""
   ],
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0-beta.51",
+    "body-parser": "^1.18.3",
+    "classnames": "^2.2.6",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.51",
+    "@babel/node": "^7.0.0-beta.51",
+    "@babel/plugin-transform-react-constant-elements": "^7.0.0-beta.51",
+    "@babel/plugin-transform-react-inline-elements": "^7.0.0-beta.51",
+    "@babel/preset-env": "^7.0.0-beta.51",
+    "@babel/preset-flow": "^7.0.0-beta.51",
+    "@babel/preset-react": "^7.0.0-beta.51",
+    "@babel/preset-stage-2": "^7.0.0-beta.51",
+    "autoprefixer": "^8.6.3",
+    "babel-core": "^7.0.0-0",
+    "babel-eslint": "^8.2.3",
+    "babel-jest": "^23.0.1",
+    "babel-loader": "^7.1.4"
+  },
   "author": "sunil",
   "license": "ISC"
 }
